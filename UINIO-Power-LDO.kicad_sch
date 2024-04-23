@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ba068877-8212-4bc4-9c1c-20a72b10b9d1")
+	(paper "A4")
+	(title_block
+		(title "UINIO-Power-LDO")
+		(date "2024-04-23")
+		(rev "Version 1.0.0")
+		(company "UinIO.com 电子技术实验室")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
