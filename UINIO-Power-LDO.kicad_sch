@@ -4977,8 +4977,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-XC6206"
-			(at 157.734 162.052 90)
+		(property "Value" "VCC-XC6206"
+			(at 157.48 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5043,7 +5043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-XC6206"
+		(property "Value" "VCC-XC6206"
 			(at 270.764 149.86 90)
 			(effects
 				(font
@@ -6227,7 +6227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-XC6206"
+		(property "Value" "VCC-XC6206"
 			(at 271.018 144.78 90)
 			(effects
 				(font
@@ -6426,7 +6426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-AMS1117"
+		(property "Value" "VCC-AMS1117"
 			(at 245.618 144.78 90)
 			(effects
 				(font
@@ -6810,7 +6810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND-SGM2019"
+		(property "Value" "GND-AMS1117"
 			(at 211.582 95.25 90)
 			(effects
 				(font
@@ -6943,7 +6943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-SGM2019"
+		(property "Value" "VCC-SGM2019"
 			(at 224.79 29.972 90)
 			(effects
 				(font
@@ -7970,7 +7970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-SGM2019"
+		(property "Value" "VCC-SGM2019"
 			(at 192.024 149.86 90)
 			(effects
 				(font
@@ -8575,7 +8575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-AMS1117"
+		(property "Value" "VCC-AMS1117"
 			(at 245.364 149.86 90)
 			(effects
 				(font
@@ -9037,7 +9037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-SGM2019"
+		(property "Value" "VCC-SGM2019"
 			(at 192.278 144.78 90)
 			(effects
 				(font
@@ -9856,7 +9856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND-ME6211"
+		(property "Value" "GND-XC6206"
 			(at 83.312 154.94 90)
 			(effects
 				(font
@@ -10123,7 +10123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-ME6211"
+		(property "Value" "VCC-ME6211"
 			(at 133.35 87.122 90)
 			(effects
 				(font
@@ -10736,7 +10736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-ME6211"
+		(property "Value" "VCC-ME6211"
 			(at 218.694 149.86 90)
 			(effects
 				(font
@@ -11479,7 +11479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-ME6211"
+		(property "Value" "VCC-ME6211"
 			(at 218.948 144.78 90)
 			(effects
 				(font
@@ -13066,7 +13066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Output-AMS1117"
+		(property "Value" "VCC-AMS1117"
 			(at 263.906 81.026 90)
 			(effects
 				(font
