@@ -1,6 +1,6 @@
-# UINIO-Storage 低速存储器模组
+# UINIO-Power-LDO 线性稳压器模组
 
-[**UINIO-Storage**](https://gitee.com/uinika/UINIO-Storage) 是一款同时支持 **EEPROM**、**Flash**、**MicroSD** 三种类型存储器的多功能模组，采用了拼板设计，每一片模组都添加有独立的 `1mm` 直径固定螺丝孔，可以单独拆分进行使用。
+[**UINIO-Storage**](https://gitee.com/uinika/UINIO-Power-LDO) 是一款同时支持 **EEPROM**、**Flash**、**MicroSD** 三种类型存储器的多功能模组，采用了拼板设计，每一片模组都添加有独立的 `1mm` 直径固定螺丝孔，可以单独拆分进行使用。
 
 ![](./Images/PCB-3D-1.png)
 
