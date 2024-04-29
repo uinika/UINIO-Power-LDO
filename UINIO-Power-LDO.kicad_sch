@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "UINIO-Power-LDO")
-		(date "2024-04-25")
-		(rev "Version 1.0.0")
+		(date "2024-04-29")
+		(rev "Version 2.0.0")
 		(company "UinIO.com 电子技术实验室")
 	)
 	(lib_symbols

@@ -1,5 +1,5 @@
-### Footprint positions - created on 2024-04-26T14:53:21+0800 ###
-### Printed by KiCad version 8.0.1
+### Footprint positions - created on 2024-04-29T22:59:49+0800 ###
+### Printed by KiCad version 8.0.2
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val              Package                                              PosX       PosY       Rot  Side
@@ -30,13 +30,13 @@ HOLE**    Hole-2mm         Hole-2mm                                          32.
 HOLE**    Hole-2mm         Hole-2mm                                          -3.9700   -18.1467    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          -3.9600   -27.9700    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          -3.9600   -80.1967    0.0000  top
-HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6300   -49.1667    0.0000  top
+HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6400   -49.1667    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          32.3200   -70.3633    0.0000  top
-HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6400   -75.2600    0.0000  top
+HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6400   -75.2800    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          -3.9700   -96.4867    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          32.3200   -18.1367    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          32.3200    -1.8567    0.0000  top
-HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6400   -23.0933    0.0000  top
+HOLE**    Hole-2.6mm       Hole-2.6mm                                        14.6400   -23.0533    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          32.3200   -96.4767    0.0000  top
 HOLE**    Hole-2mm         Hole-2mm                                          32.3200   -44.2500    0.0000  top
 J1        Conn_01x02_Pin   PinHeader_1x02_P2.54mm_Vertical                    6.9976   -37.3850  180.0000  top

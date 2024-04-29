@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
-%TF.CreationDate,2024-04-26T14:53:14+08:00*%
-%TF.ProjectId,UINIO-Power-LDO,55494e49-4f2d-4506-9f77-65722d4c444f,Version 1.0.0*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-04-29T22:59:26+08:00*%
+%TF.ProjectId,UINIO-Power-LDO,55494e49-4f2d-4506-9f77-65722d4c444f,Version 2.0.0*%
 %TF.SameCoordinates,PX7c793c0PY34d0820*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.1) date 2024-04-26 14:53:14*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-04-29 22:59:26*
 %MOMM*%
 %LPD*%
 G01*
@@ -222,7 +222,7 @@ X26407500Y-9396667D03*
 %TD*%
 D26*
 %TO.C,HOLE\u002A\u002A*%
-X14640000Y-75260000D03*
+X14640000Y-75280000D03*
 %TD*%
 D27*
 %TO.C,C9*%
@@ -359,7 +359,7 @@ X10958500Y-89814167D03*
 %TD*%
 D26*
 %TO.C,HOLE\u002A\u002A*%
-X14630000Y-49166666D03*
+X14640000Y-49166666D03*
 %TD*%
 D18*
 %TO.C,TP4*%
@@ -433,7 +433,7 @@ X-3970000Y-18146667D03*
 %TD*%
 D26*
 %TO.C,HOLE\u002A\u002A*%
-X14640000Y-23093333D03*
+X14640000Y-23053333D03*
 %TD*%
 D15*
 %TO.C,USB2*%
